@@ -1,12 +1,12 @@
-# Music App UI for Apple Watch - SwiftUI
+# Interface utilisateur de l'application musicale pour Apple Watch - SwiftUI
 
-## [Watch it on YouTube](https://youtu.be/nY9e_yGlWaU)
+## [Regardez-le sur YouTube] (https://www.youtube.com/channel/UCpFAc6I0Rr8FrIEmwdMyg0w)
 
 
-We create three screens for the music app that runs on your apple watch for that we use SwiftUI. On the home screen, it shows a banner at the top then a grid view of popular artists. Then there is a artist screen where you can find your favorite artist. At the end, we create a songs screen with work for both means for any atrist or album.
+Nous créons trois écrans pour l'application musicale qui s'exécute sur votre montre Apple pour laquelle nous utilisons SwiftUI. Sur l'écran d'accueil, il affiche une bannière en haut, puis une grille d'artistes populaires. Ensuite, il y a un écran d'artiste où vous pouvez trouver votre artiste préféré. À la fin, nous créons un écran de chansons avec un travail pour les deux moyens pour n'importe quel artiste ou album.
 
-### Music App UI for Apple Watch Final UI
+### Music App UI pour Apple Watch Final UI
 
-![Preview](images/gif.gif)
+![Aperçu](images/gif.gif)
 
-![App UI](images/ui.png)
+![Interface utilisateur de l'application](images/ui.png)
